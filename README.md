@@ -4,7 +4,7 @@ SQL Backup
 Description
 --------
 
-A lightweight tool for automating the backup of anMicrosoft SQL Server databases. Includes support for compressing a backup file as well as copying either the raw *.bak file or compressed *.zip file to either a network or USB drive along with uploading the backup to an external FTP Server, Dropbox account or Google Drive account.
+A lightweight tool for automating the backup of Microsoft SQL Server databases. Includes support for compressing a backup file as well as copying either the raw *.bak file or compressed *.zip file to either a network or USB drive along with uploading the backup to an external FTP Server, Dropbox account or Google Drive account.
 
 Any errors during the backup process are captured in the Windows Application Event Log and can optionally be emailed to a System Administrator for further review.
 
